@@ -1,2 +1,2 @@
 # java-oop
-java oop 연습
+GitKraken 사용 및 Git Flow 전략 연습
